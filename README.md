@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/KAJU"><img src="https://github.com/KajuTheDev/KajuTheDev/blob/master/DevCard.svg" width="400" alt="J.C. Kasanngali's Dev Card"/></a>
+<a href="https://app.daily.dev/KAJU"><img src="https://github.com/KajuTheDev/KajuTheDev/blob/main/devcard.svg" width="400" alt="J.C. Kasanngali's Dev Card"/></a>
 
